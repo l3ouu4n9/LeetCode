@@ -29,9 +29,6 @@ E.g.
   Output: 1994
   Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
-
-  Runtime: 65.76%
-  Memory: 27.42%
 '''
 
 class Solution(object):
