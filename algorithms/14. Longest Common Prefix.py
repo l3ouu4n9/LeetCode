@@ -8,9 +8,6 @@ E.g.
   
   Input: ["dog","racecar","car"]
   Output: ""
-  
-  Runtime: 74.85%
-  Memory: 66.25%
 
 '''
 
