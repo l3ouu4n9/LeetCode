@@ -16,9 +16,6 @@ E.g.
   Output: false
   Explanation: Reads 01 from right to left.
   
-  Runtime: 30.55%
-  Memory: 45.78%
-
 '''
 
 class Solution(object):
