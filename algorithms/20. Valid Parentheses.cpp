@@ -23,9 +23,6 @@ E.g.
   
   Input: "{[]}"
   Output: true
-  
-  Runtime: 100%
-  Memory: 95.35%
 
 */
 
