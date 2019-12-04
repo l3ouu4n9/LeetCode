@@ -11,3 +11,4 @@ LeetCode
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/13.%20Roman%20to%20Integer.py)|Easy|65.76%|27.42%|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/14.%20Longest%20Common%20Prefix.py)|Easy|74.85%|66.25%|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/20.%20Valid%20Parentheses.cpp)|Easy|100%|95.35%|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/21.%20Merge%20Two%20Sorted%20Lists.cpp)|Easy|13.22%|49.18%|
