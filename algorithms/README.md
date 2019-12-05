@@ -16,3 +16,4 @@ LeetCode
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/27.%20Remove%20Element.cpp)|Easy|100.00%|79.41%|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/28.%20Implement%20strStr().py)|Easy|34.85%|46.15%|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/35.%20Search%20Insert%20Position.cpp)|Easy|57.79%|100%|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/38.%20Count%20and%20Say.cpp)|Easy|99.88%|77.78%|
