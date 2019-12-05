@@ -15,3 +15,4 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|5.20%|83.75%|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/27.%20Remove%20Element.cpp)|Easy|100.00%|79.41%|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/28.%20Implement%20strStr().py)|Easy|34.85%|46.15%|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/35.%20Search%20Insert%20Position.cpp)|Easy|57.79%|100%|
