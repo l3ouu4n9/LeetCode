@@ -17,3 +17,4 @@ LeetCode
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/28.%20Implement%20strStr().py)|Easy|34.85%|46.15%|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/35.%20Search%20Insert%20Position.cpp)|Easy|57.79%|100%|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/38.%20Count%20and%20Say.cpp)|Easy|99.88%|77.78%|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/53.%20Maximum%20Subarray.cpp)|Easy|71.79%|88.24%|
