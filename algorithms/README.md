@@ -20,3 +20,4 @@ LeetCode
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/53.%20Maximum%20Subarray.cpp)|Easy|71.79%|88.24%|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/66.%20Plus%20One.cpp)|Easy|100%|96.72%|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/67.%20Add%20Binary.py)|Easy|98.33%|26.32%|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/69.%20Sqrt(x).cpp)|Easy|77.00%|100%|
