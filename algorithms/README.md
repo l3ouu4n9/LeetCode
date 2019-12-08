@@ -22,3 +22,4 @@ LeetCode
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/67.%20Add%20Binary.py)|Easy|98.33%|26.32%|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/69.%20Sqrt(x).cpp)|Easy|77.00%|100%|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/70.%20Climbing%20Stairs.cpp)|Easy|100.00%|97.06%|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Code](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|99.98%|98.11%|
