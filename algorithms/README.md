@@ -26,3 +26,4 @@ LeetCode
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/88.%20Merge%20Sorted%20Array.cpp)|Easy|85.33%|41.30%|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/100.%20Same%20Tree.cpp)|Easy|100%|100%|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/101.%20Symmetric%20Tree.cpp)|Easy|84.42%|84.75%|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)|Easy|87.95%|68.13%|
