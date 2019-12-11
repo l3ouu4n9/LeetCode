@@ -25,3 +25,4 @@ LeetCode
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Code](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|99.98%|98.11%|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/88.%20Merge%20Sorted%20Array.cpp)|Easy|85.33%|41.30%|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/100.%20Same%20Tree.cpp)|Easy|100%|100%|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/101.%20Symmetric%20Tree.cpp)|Easy|84.42%|84.75%|
