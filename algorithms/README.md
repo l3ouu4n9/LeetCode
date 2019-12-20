@@ -32,3 +32,4 @@ LeetCode
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)|Easy|5.19%|8.11%|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/110.%20Balanced%20Binary%20Tree.cpp)|Easy|84.26%|84.75%|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree.cpp)|Easy|7.15%|100%|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/112.%20Path%20Sum.cpp)|Easy|96.43%|97.92%|
