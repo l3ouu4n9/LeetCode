@@ -33,3 +33,4 @@ LeetCode
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/110.%20Balanced%20Binary%20Tree.cpp)|Easy|84.26%|84.75%|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree.cpp)|Easy|7.15%|100%|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/112.%20Path%20Sum.cpp)|Easy|96.43%|97.92%|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/118.%20Pascal's%20Triangle.cpp)|Easy|61.12%|96.30%|
