@@ -36,3 +36,4 @@ LeetCode
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/118.%20Pascal's%20Triangle.cpp)|Easy|61.12%|96.30%|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/119.%20Pascal's%20Triangle%20II.cpp)|Easy|100.00%|100.00%|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|Easy|98.48%|100.00%|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)|Easy|97.98%|100.00%|
