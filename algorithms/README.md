@@ -39,3 +39,4 @@ LeetCode
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)|Easy|97.98%|100.00%|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/125.%20Valid%20Palindrome.cpp)|Easy|99.40%|36.74%|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/136.%20Single%20Number.cpp)|Easy|95.87%|85.19%|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/141.%20Linked%20List%20Cycle.cpp)|Easy|97.18%|100.00%|
