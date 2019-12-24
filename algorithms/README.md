@@ -40,3 +40,4 @@ LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/125.%20Valid%20Palindrome.cpp)|Easy|99.40%|36.74%|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/136.%20Single%20Number.cpp)|Easy|95.87%|85.19%|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/141.%20Linked%20List%20Cycle.cpp)|Easy|97.18%|100.00%|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/155.%20Min%20Stack.cpp)|Easy|69.63%|100.00%|
