@@ -42,3 +42,4 @@ LeetCode
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/141.%20Linked%20List%20Cycle.cpp)|Easy|97.18%|100.00%|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/155.%20Min%20Stack.cpp)|Easy|69.63%|100.00%|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/160.%20Intersection%20of%20Two%20Linked%20Lists.cpp)|Easy|95.63%|72.22%|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp)|Easy|5.08%|96.08%|
