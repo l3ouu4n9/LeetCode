@@ -46,3 +46,4 @@ LeetCode
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/168.%20Excel%20Sheet%20Column%20Title.cpp)|Easy|100.00%|72.73%|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/169.%20Majority%20Element.cpp)|Easy|25.67%|81.82%|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/171.%20Excel%20Sheet%20Column%20Number.cpp)|Easy|100.00%|83.67%|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/172.%20Factorial%20Trailing%20Zeroes.cpp)|Easy|57.88%|7.14%|
