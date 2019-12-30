@@ -49,3 +49,4 @@ LeetCode
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/172.%20Factorial%20Trailing%20Zeroes.cpp)|Easy|57.88%|7.14%|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/189.%20Rotate%20Array.cpp)|Easy|87.74%|91.67%|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/190.%20Reverse%20Bits.cpp)|Easy|100.00%|95.83%|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/191.%20Number%20of%201%20Bits.cpp)|Easy|100.00%|58.54%|
