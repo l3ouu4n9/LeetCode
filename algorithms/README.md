@@ -51,3 +51,4 @@ LeetCode
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/190.%20Reverse%20Bits.cpp)|Easy|100.00%|95.83%|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/191.%20Number%20of%201%20Bits.cpp)|Easy|100.00%|58.54%|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/198.%20House%20Robber.cpp)|Easy|100.00%|77.36%|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/202.%20Happy%20Number.cpp)|Easy|67.73%|76.92%|
