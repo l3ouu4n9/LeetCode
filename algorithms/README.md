@@ -54,3 +54,4 @@ LeetCode
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/202.%20Happy%20Number.cpp)|Easy|67.73%|76.92%|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/203.%20Remove%20Linked%20List%20Elements.cpp)|Easy|68.78%|47.17%|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/204.%20Count%20Primes.cpp)|Easy|95.44% |16.67%|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/205.%20Isomorphic%20Strings.py)|Easy|75.35% |52.63%|
