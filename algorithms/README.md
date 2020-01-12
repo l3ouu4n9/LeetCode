@@ -58,3 +58,4 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/206.%20Reverse%20Linked%20List.cpp)|Easy|78.31%|5.34%|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/217.%20Contains%20Duplicate.cpp)|Easy|99.00%|92.31%|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/219.%20Contains%20Duplicate%20II.cpp)|Easy|26.26%|52.94%|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/225.%20Implement%20Stack%20using%20Queues.cpp)|Easy|100.00%|93.33%|
