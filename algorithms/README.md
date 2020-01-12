@@ -61,3 +61,4 @@ LeetCode
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/225.%20Implement%20Stack%20using%20Queues.cpp)|Easy|100.00%|93.33%|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/226.%20Invert%20Binary%20Tree.cpp)|Easy|58.87%|5.45%|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/231.%20Power%20of%20Two.cpp)|Easy|56.04%|6.00%|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/232.%20Implement%20Queue%20using%20Stacks.cpp)|Easy|54.40%|100.00%|
