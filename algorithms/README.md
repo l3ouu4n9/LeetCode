@@ -60,3 +60,4 @@ LeetCode
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/219.%20Contains%20Duplicate%20II.cpp)|Easy|26.26%|52.94%|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/225.%20Implement%20Stack%20using%20Queues.cpp)|Easy|100.00%|93.33%|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/226.%20Invert%20Binary%20Tree.cpp)|Easy|58.87%|5.45%|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/231.%20Power%20of%20Two.cpp)|Easy|56.04%|6.00%|
