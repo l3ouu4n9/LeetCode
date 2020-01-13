@@ -62,3 +62,4 @@ LeetCode
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/226.%20Invert%20Binary%20Tree.cpp)|Easy|58.87%|5.45%|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/231.%20Power%20of%20Two.cpp)|Easy|56.04%|6.00%|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/232.%20Implement%20Queue%20using%20Stacks.cpp)|Easy|54.40%|100.00%|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/234.%20Palindrome%20Linked%20List.cpp)|Easy|69.40%|50.00%|
