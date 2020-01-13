@@ -65,3 +65,4 @@ LeetCode
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/234.%20Palindrome%20Linked%20List.cpp)|Easy|69.40%|50.00%|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp)|Easy|53.44%|100.00%|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|Easy|15.12%|11.54%|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/242.%20Valid%20Anagram.cpp)|Easy|7.60%|74.63%|
