@@ -67,3 +67,4 @@ LeetCode
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|Easy|15.12%|11.54%|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/242.%20Valid%20Anagram.cpp)|Easy|7.60%|74.63%|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/257.%20Binary%20Tree%20Paths.cpp)|Easy|76.09%|78.95%|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/258.%20Add%20Digits.cpp)|Easy|100.00%|95.65%|
