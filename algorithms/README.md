@@ -70,3 +70,4 @@ LeetCode
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/258.%20Add%20Digits.cpp)|Easy|100.00%|95.65%|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/263.%20Ugly%20Number.cpp)|Easy|57.48%|73.33%|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/268.%20Missing%20Number.cpp)|Easy|23.06%|90.20%|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/278.%20First%20Bad%20Version.cpp)|Easy|100.00%|42.42%|
