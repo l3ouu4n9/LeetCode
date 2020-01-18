@@ -72,3 +72,4 @@ LeetCode
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/268.%20Missing%20Number.cpp)|Easy|23.06%|90.20%|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/278.%20First%20Bad%20Version.cpp)|Easy|100.00%|42.42%|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/283.%20Move%20Zeroes.cpp)|Easy|24.05%|84.72%|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/290.%20Word%20Pattern.py)|Easy|89.10%|50.00%|
