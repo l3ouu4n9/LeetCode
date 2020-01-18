@@ -1,4 +1,4 @@
-/*
+"""
 Given a pattern and a string str, find if str follows the same pattern.
 
 Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in str.
@@ -25,7 +25,7 @@ Output: false
 
 Notes:
 You may assume pattern contains only lowercase letters, and str contains lowercase letters that may be separated by a single space.
-*/
+"""
 
 class Solution(object):
     def wordPattern(self, pattern, str):
