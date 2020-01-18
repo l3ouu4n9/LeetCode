@@ -74,3 +74,4 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/283.%20Move%20Zeroes.cpp)|Easy|24.05%|84.72%|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/290.%20Word%20Pattern.py)|Easy|89.10%|50.00%|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/292.%20Nim%20Game.cpp)|Easy|52.04%|75.00%|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/299.%20Bulls%20and%20Cows.py)|Easy|5.01%|50.00%|
