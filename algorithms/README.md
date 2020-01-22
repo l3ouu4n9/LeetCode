@@ -85,3 +85,4 @@ LeetCode
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/367.%20Valid%20Perfect%20Square.cpp)|Easy|100.00%|80.95%|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/371.%20Sum%20of%20Two%20Integers.cpp)|Easy|51.04%|91.67%|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.cpp)|Easy|100.00%|88.89%|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/383.%20Ransom%20Note.py)|Easy|52.37%|11.11%|
