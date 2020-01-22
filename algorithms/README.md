@@ -80,3 +80,4 @@ LeetCode
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/342.%20Power%20of%20Four.cpp)|Easy|57.93%|9.52%|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/344.%20Reverse%20String.cpp)|Easy|93.07%|95.12%|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/345.%20Reverse%20Vowels%20of%20a%20String.py)|Easy|39.03%|46.15%|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/349.%20Intersection%20of%20Two%20Arrays.py)|Easy|46.19%|25.00%|
