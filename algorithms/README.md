@@ -82,3 +82,4 @@ LeetCode
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/345.%20Reverse%20Vowels%20of%20a%20String.py)|Easy|39.03%|46.15%|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/349.%20Intersection%20of%20Two%20Arrays.py)|Easy|46.19%|25.00%|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/350.%20Intersection%20of%20Two%20Arrays%20II.py)|Easy|28.96%|5.13%|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/367.%20Valid%20Perfect%20Square.cpp)|Easy|100.00%|80.95%|
