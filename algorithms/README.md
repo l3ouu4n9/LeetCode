@@ -87,3 +87,4 @@ LeetCode
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.cpp)|Easy|100.00%|88.89%|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/383.%20Ransom%20Note.py)|Easy|52.37%|11.11%|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/387.%20First%20Unique%20Character%20in%20a%20String.py)|Easy|11.37%|54.35%|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/389.%20Find%20the%20Difference.py)|Easy|13.29%|100.00%|
