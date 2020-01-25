@@ -90,3 +90,4 @@ LeetCode
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/389.%20Find%20the%20Difference.py)|Easy|13.29%|100.00%|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/392.%20Is%20Subsequence.cpp)|Easy|63.57%|66.67%|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/401.%20Binary%20Watch.py)|Easy|60.21%|50.00%|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/404.%20Sum%20of%20Left%20Leaves.cpp)|Easy|82.67%|54.55%|
