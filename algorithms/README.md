@@ -96,3 +96,4 @@ LeetCode
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/412.%20Fizz%20Buzz.cpp)|Easy|10.96%|73.33%|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/414.%20Third%20Maximum%20Number.cpp)|Easy|14.43%|100.00%|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/415.%20Add%20Strings.cpp)|Easy|19.92%|13.04%|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/434.%20Number%20of%20Segments%20in%20a%20String.py)|Easy|7.66%|18.18%|
