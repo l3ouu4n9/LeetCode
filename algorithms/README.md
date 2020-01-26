@@ -94,3 +94,4 @@ LeetCode
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/405.%20Convert%20a%20Number%20to%20Hexadecimal.py)|Easy|5.76%|25.00%|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/409.%20Longest%20Palindrome.py)|Easy|11.14%|87.50%|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/412.%20Fizz%20Buzz.cpp)|Easy|10.96%|73.33%|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/414.%20Third%20Maximum%20Number.cpp)|Easy|14.43%|100.00%|
