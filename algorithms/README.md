@@ -99,3 +99,4 @@ LeetCode
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/434.%20Number%20of%20Segments%20in%20a%20String.py)|Easy|7.66%|18.18%|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/437.%20Path%20Sum%20III.cpp)|Easy|90.71%|87.10%|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/441.%20Arranging%20Coins.cpp)|Easy|62.14%|100%|
+|443|[String Compression](https://leetcode.com/problems/string-compression/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/443.%20String%20Compression.cpp)|Easy|85.67%|91.67%|
