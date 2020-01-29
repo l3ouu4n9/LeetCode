@@ -109,3 +109,4 @@ LeetCode
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/463.%20Island%20Perimeter.cpp)|Easy|23.56%|85.71%|
 |475|[Heaters](https://leetcode.com/problems/heaters/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/475.%20Heaters.cpp)|Easy|54.98%|42.86%|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/476.%20Number%20Complement.cpp)|Easy|55.29%|41.67%|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/482.%20License%20Key%20Formatting.py)|Easy|98.03%|93.33%|
