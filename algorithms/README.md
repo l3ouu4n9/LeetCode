@@ -112,3 +112,4 @@ LeetCode
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/482.%20License%20Key%20Formatting.py)|Easy|98.03%|93.33%|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/485.%20Max%20Consecutive%20Ones.cpp)|Easy|84.24%|57.58%|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/492.%20Construct%20the%20Rectangle.cpp)|Easy|68.80%|25.00%|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/496.%20Next%20Greater%20Element%20I.cpp)|Easy|67.67%|100.00%|
