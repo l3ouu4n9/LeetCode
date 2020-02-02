@@ -114,3 +114,4 @@ LeetCode
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/492.%20Construct%20the%20Rectangle.cpp)|Easy|68.80%|25.00%|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/496.%20Next%20Greater%20Element%20I.cpp)|Easy|67.67%|100.00%|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/500.%20Keyboard%20Row.py)|Easy|51.96%|14.29%|
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py)|Easy|24.84%|55.56%|
