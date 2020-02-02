@@ -116,3 +116,4 @@ LeetCode
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/500.%20Keyboard%20Row.py)|Easy|51.96%|14.29%|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py)|Easy|24.84%|55.56%|
 |504|[Base 7](https://leetcode.com/problems/base-7/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/504.%20Base%207.cpp)|Easy|56.22%|50.00%|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/506.%20Relative%20Ranks.py)|Easy|96.26%|33.33%|
