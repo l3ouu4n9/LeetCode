@@ -123,3 +123,4 @@ LeetCode
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/521.%20Longest%20Uncommon%20Subsequence%20I.cpp)|Easy|54.59%|60.00%|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)|Easy|50.68%|100.00%|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/532.%20K-diff%20Pairs%20in%20an%20Array.py)|Easy|54.49%|11.11%|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)|Easy|38.43%|14.29%|
