@@ -119,3 +119,4 @@ LeetCode
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/506.%20Relative%20Ranks.py)|Easy|96.26%|33.33%|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/507.%20Perfect%20Number.cpp)|Easy|100.00%|100.00%|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/509.%20Fibonacci%20Number.cpp)|Easy|13.52%|91.04%|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/520.%20Detect%20Capital.cpp)|Easy|62.98%|50.00%|
