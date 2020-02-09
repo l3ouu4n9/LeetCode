@@ -125,3 +125,4 @@ LeetCode
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/532.%20K-diff%20Pairs%20in%20an%20Array.py)|Easy|54.49%|11.11%|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)|Easy|38.43%|14.29%|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/541.%20Reverse%20String%20II.py)|Easy|86.75%|11.11%|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/543.%20Diameter%20of%20Binary%20Tree.cpp)|Easy|41.67%|92.59%|
