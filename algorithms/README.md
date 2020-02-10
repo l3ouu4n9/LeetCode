@@ -126,3 +126,4 @@ LeetCode
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)|Easy|38.43%|14.29%|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/541.%20Reverse%20String%20II.py)|Easy|86.75%|11.11%|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/543.%20Diameter%20of%20Binary%20Tree.cpp)|Easy|41.67%|92.59%|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/551.%20Student%20Attendance%20Record%20I.cpp)|Easy|62.13%|100.00%|
