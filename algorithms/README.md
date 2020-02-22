@@ -133,3 +133,4 @@ LeetCode
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/561.%20Array%20Partition%20I.cpp)|Easy|73.13%|100.00%|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/563.%20Binary%20Tree%20Tilt.cpp)|Easy|94.72%|100.00%|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/566.%20Reshape%20the%20Matrix.py)|Easy|5.66%|25.00%|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/572.%20Subtree%20of%20Another%20Tree.py)|Easy|95.66%|20.00%|
