@@ -130,3 +130,4 @@ LeetCode
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/557.%20Reverse%20Words%20in%20a%20String%20III.py)|Easy|99.32%|68.18%|
 |558|[Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/558.%20Quad%20Tree%20Intersection.py)|Easy|21.21%|100.00%|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree.cpp)|Easy|70.74%|5.00%|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/561.%20Array%20Partition%20I.cpp)|Easy|73.13%|100.00%|
