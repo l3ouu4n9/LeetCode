@@ -139,3 +139,4 @@ LeetCode
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|Easy|85.35%|10.53%|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal.cpp)|Easy|58.39%|20.00%|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/594.%20Longest%20Harmonious%20Subsequence.py)|Easy|37.50%|100.00%|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/598.%20Range%20Addition%20II.cpp)|Easy|93.16%|50.00%|
