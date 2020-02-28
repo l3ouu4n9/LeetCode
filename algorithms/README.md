@@ -141,3 +141,4 @@ LeetCode
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/594.%20Longest%20Harmonious%20Subsequence.py)|Easy|37.50%|100.00%|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/598.%20Range%20Addition%20II.cpp)|Easy|93.16%|50.00%|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.py)|Easy|24.49%|100.00%|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/605.%20Can%20Place%20Flowers.cpp)|Easy|86.12%|100.00%|
