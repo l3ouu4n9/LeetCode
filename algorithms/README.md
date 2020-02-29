@@ -144,3 +144,4 @@ LeetCode
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/605.%20Can%20Place%20Flowers.cpp)|Easy|86.12%|100.00%|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/606.%20Construct%20String%20from%20Binary%20Tree.py)|Easy|66.53%|100.00%|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/617.%20Merge%20Two%20Binary%20Trees.cpp)|Easy|61.19%|5.55%|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers.cpp)|Easy|47.18%|100.00%|
