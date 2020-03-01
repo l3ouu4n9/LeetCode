@@ -149,3 +149,4 @@ LeetCode
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|Easy|72.70%|100.00%|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/643.%20Maximum%20Average%20Subarray%20I.cpp)|Easy|85.87%|100.00%|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/645.%20Set%20Mismatch.cpp)|Easy|50.06%|100.00%|
+|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|Easy|96.56%|100.00%|
