@@ -153,3 +153,4 @@ LeetCode
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/657.%20Robot%20Return%20to%20Origin.py)|Easy|72.71%|68.18%|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/661.%20Image%20Smoother.cpp)|Easy|62.50%|100.00%|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/665.%20Non-decreasing%20Array.cpp)|Easy|84.09%|100.00%|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)|Easy|40.23%|100.00%|
