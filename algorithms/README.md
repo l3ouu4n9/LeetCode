@@ -152,3 +152,4 @@ LeetCode
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|Easy|96.56%|100.00%|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/657.%20Robot%20Return%20to%20Origin.py)|Easy|72.71%|68.18%|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/661.%20Image%20Smoother.cpp)|Easy|62.50%|100.00%|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/665.%20Non-decreasing%20Array.cpp)|Easy|84.09%|100.00%|
