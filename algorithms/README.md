@@ -154,3 +154,4 @@ LeetCode
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/661.%20Image%20Smoother.cpp)|Easy|62.50%|100.00%|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/665.%20Non-decreasing%20Array.cpp)|Easy|84.09%|100.00%|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)|Easy|40.23%|100.00%|
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|Easy|100.00%|100.00%|
