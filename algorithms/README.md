@@ -158,3 +158,4 @@ LeetCode
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence.cpp)|Easy|95.42%|100.00%|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/680.%20Valid%20Palindrome%20II.py)|Easy|87.79%|11.11%|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/682.%20Baseball%20Game.cpp)|Easy|96.22%|100.00%|
+|686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/686.%20Repeated%20String%20Match.py)|Easy|39.78%|46.67%|
