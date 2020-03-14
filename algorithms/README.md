@@ -160,3 +160,4 @@ LeetCode
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/682.%20Baseball%20Game.cpp)|Easy|96.22%|100.00%|
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/686.%20Repeated%20String%20Match.py)|Easy|39.78%|46.67%|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/687.%20Longest%20Univalue%20Path.cpp)|Easy|27.73%|100.00%|
+|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/690.%20Employee%20Importance.py)|Easy|34.72%|85.71%|
