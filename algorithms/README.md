@@ -163,3 +163,4 @@ LeetCode
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/690.%20Employee%20Importance.py)|Easy|34.72%|85.71%|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/693.%20Binary%20Number%20with%20Alternating%20Bits.cpp)|Easy|100.00%|100.00%|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/696.%20Count%20Binary%20Substrings.py)|Easy|91.81%|25.00%|
+|697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/697.%20Degree%20of%20an%20Array.py)|Easy|12.59%|100.00%|
