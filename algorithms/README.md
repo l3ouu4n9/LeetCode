@@ -165,3 +165,4 @@ LeetCode
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/696.%20Count%20Binary%20Substrings.py)|Easy|91.81%|25.00%|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/697.%20Degree%20of%20an%20Array.py)|Easy|12.59%|100.00%|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|Easy|43.67%|100.00%|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)|Easy|14.42%|77.78%|
