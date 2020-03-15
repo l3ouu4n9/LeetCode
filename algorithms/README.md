@@ -162,3 +162,4 @@ LeetCode
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/687.%20Longest%20Univalue%20Path.cpp)|Easy|27.73%|100.00%|
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/690.%20Employee%20Importance.py)|Easy|34.72%|85.71%|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/693.%20Binary%20Number%20with%20Alternating%20Bits.cpp)|Easy|100.00%|100.00%|
+|696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/696.%20Count%20Binary%20Substrings.py)|Easy|91.81%|25.00%|
