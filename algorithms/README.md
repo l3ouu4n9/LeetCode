@@ -167,3 +167,4 @@ LeetCode
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|Easy|43.67%|100.00%|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)|Easy|14.42%|77.78%|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/704.%20Binary%20Search.cpp)|Easy|93.05%|100.00%|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/709.%20To%20Lower%20Case.py)|Easy|69.26%|6.90%|
