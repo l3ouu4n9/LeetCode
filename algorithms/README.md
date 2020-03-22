@@ -170,3 +170,4 @@ LeetCode
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/709.%20To%20Lower%20Case.py)|Easy|69.26%|6.90%|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/717.%201-bit%20and%202-bit%20Characters.cpp)|Easy|75.71%|100.00%|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/720.%20Longest%20Word%20in%20Dictionary.py)|Easy|5.22%|58.33%|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/724.%20Find%20Pivot%20Index.py)|Easy|21.87%|30.00%|
