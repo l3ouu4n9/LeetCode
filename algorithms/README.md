@@ -168,3 +168,4 @@ LeetCode
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)|Easy|14.42%|77.78%|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/704.%20Binary%20Search.cpp)|Easy|93.05%|100.00%|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/709.%20To%20Lower%20Case.py)|Easy|69.26%|6.90%|
+|717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/717.%201-bit%20and%202-bit%20Characters.cpp)|Easy|75.71%|100.00%|
