@@ -169,3 +169,4 @@ LeetCode
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/704.%20Binary%20Search.cpp)|Easy|93.05%|100.00%|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/709.%20To%20Lower%20Case.py)|Easy|69.26%|6.90%|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/717.%201-bit%20and%202-bit%20Characters.cpp)|Easy|75.71%|100.00%|
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/720.%20Longest%20Word%20in%20Dictionary.py)|Easy|5.22%|58.33%|
