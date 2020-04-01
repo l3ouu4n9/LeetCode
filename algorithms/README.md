@@ -179,3 +179,4 @@ LeetCode
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/748.%20Shortest%20Completing%20Word.py)|Easy|19.42%|50.00%|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py)|Easy|43.68%|33.33%|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/766.%20Toeplitz%20Matrix.cpp)|Easy|71.74%|100.00%|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/771.%20Jewels%20and%20Stones.py)|Easy|45.73%|5.38%|
