@@ -183,3 +183,4 @@ LeetCode
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/783.%20Minimum%20Distance%20Between%20BST%20Nodes.cpp)|Easy|64.33%|100.00%|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/784.%20Letter%20Case%20Permutation.py)|Easy|94.77%|20.00%|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/788.%20Rotated%20Digits.py)|Easy|78.64%|8.33%|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/796.%20Rotate%20String.py)|Easy|32.69%|10.00%|
