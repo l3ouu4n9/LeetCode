@@ -182,3 +182,4 @@ LeetCode
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/771.%20Jewels%20and%20Stones.py)|Easy|45.73%|5.38%|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/783.%20Minimum%20Distance%20Between%20BST%20Nodes.cpp)|Easy|64.33%|100.00%|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/784.%20Letter%20Case%20Permutation.py)|Easy|94.77%|20.00%|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/788.%20Rotated%20Digits.py)|Easy|78.64%|8.33%|
