@@ -187,3 +187,4 @@ LeetCode
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/804.%20Unique%20Morse%20Code%20Words.py)|Easy|95.70%|7.14%|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/806.%20Number%20of%20Lines%20To%20Write%20String.py)|Easy|84.35%|33.33%|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/811.%20Subdomain%20Visit%20Count.py)|Easy|91.76%|5.26%|
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/812.%20Largest%20Triangle%20Area.py)|Easy|29.03%|25.00%|
