@@ -184,3 +184,4 @@ LeetCode
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/784.%20Letter%20Case%20Permutation.py)|Easy|94.77%|20.00%|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/788.%20Rotated%20Digits.py)|Easy|78.64%|8.33%|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/796.%20Rotate%20String.py)|Easy|32.69%|10.00%|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/804.%20Unique%20Morse%20Code%20Words.py)|Easy|95.70%|7.14%|
