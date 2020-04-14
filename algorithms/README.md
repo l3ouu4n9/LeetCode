@@ -190,3 +190,4 @@ LeetCode
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/812.%20Largest%20Triangle%20Area.py)|Easy|29.03%|25.00%|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/819.%20Most%20Common%20Word.py)|Easy|84.89%|10.71%|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/821.%20Shortest%20Distance%20to%20a%20Character.py)|Easy|69.04%|25.00%|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/824.%20Goat%20Latin.py)|Easy|76.59%|6.67%|
