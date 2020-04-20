@@ -196,3 +196,4 @@ LeetCode
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/836.%20Rectangle%20Overlap.py)|Easy|68.18%|10.00%|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/840.%20Magic%20Squares%20In%20Grid.py)|Easy|90.73%|50.00%|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/844.%20Backspace%20String%20Compare.py)|Easy|90.04%|8.00%|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/849.%20Maximize%20Distance%20to%20Closest%20Person.py)|Easy|26.95%|100.00%|
