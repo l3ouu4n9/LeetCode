@@ -198,3 +198,4 @@ LeetCode
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/844.%20Backspace%20String%20Compare.py)|Easy|90.04%|8.00%|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/849.%20Maximize%20Distance%20to%20Closest%20Person.py)|Easy|26.95%|100.00%|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)|Easy|82.60%|8.00%|
+|859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/859.%20Buddy%20Strings.py)|Easy|78.39%|33.33%|
