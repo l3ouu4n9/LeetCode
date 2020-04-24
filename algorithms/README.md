@@ -201,3 +201,4 @@ LeetCode
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/859.%20Buddy%20Strings.py)|Easy|78.39%|33.33%|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/860.%20Lemonade%20Change.py)|Easy|85.27%|33.33%|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/867.%20Transpose%20Matrix.py)|Easy|61.42%|16.67%|
+|868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Code](https://github.com/l3ouu4n9/LeetCode/blob/master/algorithms/868.%20Binary%20Gap.py)|Easy|98.50%|25.00%|
